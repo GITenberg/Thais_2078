@@ -1,0 +1,42 @@
+_repo: Thais_2078
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Douglas, Robert B. (Robert Bruce)
+    aliases:
+    - Douglas, R. B. (Robert Bruce)
+    - Douglas, Robert Bruce
+    birthdate: 1848
+    gutenberg_agent_id: '816'
+    url: http://www.gutenberg.org/2009/agents/816
+creator:
+  author:
+    agent_name: France, Anatole
+    aliases:
+    - Thibault, Jacques-Anatole-Francois
+    - Thibault, Jacques-Anatole-François
+    - Thibault, Anatole
+    birthdate: 1844
+    deathdate: 1924
+    gutenberg_agent_id: '755'
+    url: http://www.gutenberg.org/2009/agents/755
+    wikipedia: http://en.wikipedia.org/wiki/Anatole_France
+description: ''
+gutenberg_bookshelf: Opera
+gutenberg_issued: '2006-03-22'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '2078'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Courtesans -- Fiction'
+- !lcsh 'Egypt -- Fiction'
+- !lcsh 'Hermits -- Fiction'
+- !lcc 'PQ'
+- !lcsh 'Christianity, Conversion to -- Fiction'
+- GITenberg
+title: Thais
+url: http://www.gutenberg.org/ebooks/2078
